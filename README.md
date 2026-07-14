@@ -6,7 +6,7 @@ An end-to-end Machine Learning web application that predicts whether a person is
 
 ## 🚀 Live Demo
 
-Coming Soon...
+(https://diabetes-prediction-logistic-regression-guszuqwhfk7iursdwb84cu.streamlit.app/)
 
 ---
 
